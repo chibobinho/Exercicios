@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.exe
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.deps.json
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.dll
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\ref\MaiorMenor.dll
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\bin\Debug\net5.0\MaiorMenor.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.dll
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\ref\MaiorMenor.dll
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\MaiorMenor\obj\Debug\net5.0\MaiorMenor.genruntimeconfig.cache

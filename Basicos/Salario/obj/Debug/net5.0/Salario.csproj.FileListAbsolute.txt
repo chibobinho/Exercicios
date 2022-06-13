@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.exe
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.deps.json
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.dll
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\ref\Salario.dll
+C:\Users\yuric\Desktop\Aprender\Salario\bin\Debug\net5.0\Salario.pdb
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.dll
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\ref\Salario.dll
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.pdb
+C:\Users\yuric\Desktop\Aprender\Salario\obj\Debug\net5.0\Salario.genruntimeconfig.cache

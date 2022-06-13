@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.exe
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.deps.json
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.dll
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\ref\Bool.dll
+C:\Users\yuric\Desktop\Aprender\Bool\bin\Debug\net5.0\Bool.pdb
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.dll
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\ref\Bool.dll
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.pdb
+C:\Users\yuric\Desktop\Aprender\Bool\obj\Debug\net5.0\Bool.genruntimeconfig.cache

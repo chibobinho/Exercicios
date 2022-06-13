@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.exe
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.deps.json
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.dll
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\ref\Nascimento.dll
+C:\Users\yuric\Desktop\Aprender\Nascimento\bin\Debug\net5.0\Nascimento.pdb
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.dll
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\ref\Nascimento.dll
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.pdb
+C:\Users\yuric\Desktop\Aprender\Nascimento\obj\Debug\net5.0\Nascimento.genruntimeconfig.cache

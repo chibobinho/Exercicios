@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.exe
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.deps.json
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\ref\Decrescente.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\bin\Debug\net5.0\Decrescente.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\ref\Decrescente.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\Decrescente\obj\Debug\net5.0\Decrescente.genruntimeconfig.cache

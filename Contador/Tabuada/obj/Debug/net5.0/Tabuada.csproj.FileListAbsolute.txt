@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.exe
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.deps.json
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\ref\Tabuada.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\bin\Debug\net5.0\Tabuada.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\ref\Tabuada.dll
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.pdb
+C:\Users\yuric\Desktop\Aprender\Contador\Tabuada\obj\Debug\net5.0\Tabuada.genruntimeconfig.cache

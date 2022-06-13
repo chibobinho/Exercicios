@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.exe
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.deps.json
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.dll
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\ref\Questionario.dll
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\bin\Debug\net5.0\Questionario.pdb
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.dll
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\ref\Questionario.dll
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.pdb
+C:\Users\yuric\Desktop\Aprender\Repeticao\Questionario\obj\Debug\net5.0\Questionario.genruntimeconfig.cache
