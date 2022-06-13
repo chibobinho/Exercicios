@@ -1,0 +1,16 @@
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.exe
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.deps.json
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.runtimeconfig.json
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.runtimeconfig.dev.json
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.dll
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\ref\Ficha.dll
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\bin\Debug\net5.0\Ficha.pdb
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.csproj.AssemblyReference.cache
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.AssemblyInfoInputs.cache
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.AssemblyInfo.cs
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.csproj.CoreCompileInputs.cache
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.dll
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\ref\Ficha.dll
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.pdb
+C:\Users\yuric\Desktop\Aprender\Basicos\Ficha\obj\Debug\net5.0\Ficha.genruntimeconfig.cache

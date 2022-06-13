@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Salario\\Salario.csproj",
-      "projectName": "Salario",
-      "projectPath": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Salario\\Salario.csproj",
+      "projectUniqueName": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Ficha\\Ficha.csproj",
+      "projectName": "Ficha",
+      "projectPath": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Ficha\\Ficha.csproj",
       "packagesPath": "C:\\Users\\yuric\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Salario\\obj\\",
+      "outputPath": "C:\\Users\\yuric\\Desktop\\Aprender\\Basicos\\Ficha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuric\\AppData\\Roaming\\NuGet\\NuGet.Config"
